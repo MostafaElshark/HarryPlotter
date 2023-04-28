@@ -1,0 +1,17 @@
+C:\Users\MrM\source\repos\HarryPlotterV1\bin\Debug\net6.0-windows\HarryPlotterV1.exe
+C:\Users\MrM\source\repos\HarryPlotterV1\bin\Debug\net6.0-windows\HarryPlotterV1.deps.json
+C:\Users\MrM\source\repos\HarryPlotterV1\bin\Debug\net6.0-windows\HarryPlotterV1.runtimeconfig.json
+C:\Users\MrM\source\repos\HarryPlotterV1\bin\Debug\net6.0-windows\HarryPlotterV1.dll
+C:\Users\MrM\source\repos\HarryPlotterV1\bin\Debug\net6.0-windows\HarryPlotterV1.pdb
+C:\Users\MrM\source\repos\HarryPlotterV1\obj\Debug\net6.0-windows\HarryPlotterV1.csproj.AssemblyReference.cache
+C:\Users\MrM\source\repos\HarryPlotterV1\obj\Debug\net6.0-windows\HarryPlotterV1.Form1.resources
+C:\Users\MrM\source\repos\HarryPlotterV1\obj\Debug\net6.0-windows\HarryPlotterV1.csproj.GenerateResource.cache
+C:\Users\MrM\source\repos\HarryPlotterV1\obj\Debug\net6.0-windows\HarryPlotterV1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MrM\source\repos\HarryPlotterV1\obj\Debug\net6.0-windows\HarryPlotterV1.AssemblyInfoInputs.cache
+C:\Users\MrM\source\repos\HarryPlotterV1\obj\Debug\net6.0-windows\HarryPlotterV1.AssemblyInfo.cs
+C:\Users\MrM\source\repos\HarryPlotterV1\obj\Debug\net6.0-windows\HarryPlotterV1.csproj.CoreCompileInputs.cache
+C:\Users\MrM\source\repos\HarryPlotterV1\obj\Debug\net6.0-windows\HarryPlotterV1.dll
+C:\Users\MrM\source\repos\HarryPlotterV1\obj\Debug\net6.0-windows\refint\HarryPlotterV1.dll
+C:\Users\MrM\source\repos\HarryPlotterV1\obj\Debug\net6.0-windows\HarryPlotterV1.pdb
+C:\Users\MrM\source\repos\HarryPlotterV1\obj\Debug\net6.0-windows\HarryPlotterV1.genruntimeconfig.cache
+C:\Users\MrM\source\repos\HarryPlotterV1\obj\Debug\net6.0-windows\ref\HarryPlotterV1.dll
